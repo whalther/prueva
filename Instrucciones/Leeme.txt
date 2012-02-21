@@ -1,0 +1,6 @@
+1- Debes cambiar la configuración del archivo "conex/conex.php" por las de tu servidor.
+
+2- Crea la base de datos con el nombre "test1" luego importa la base de datos que se encuentra
+   en "db/test1.sql".
+
+3- Para acceder como administrador puedes usar el siguiente ID: 0021
